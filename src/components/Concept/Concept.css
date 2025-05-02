@@ -1,0 +1,16 @@
+.concept-dropdown {
+    display: flex;
+    padding: 1rem 0;
+    column-gap: 1rem;
+    font-size: 0.8rem;
+    position: relative;
+    align-items: center;
+    
+    select.concept-select {
+        border: none;
+        height: 2rem;
+        padding: 0.45rem;
+        background: #d3d7e7;
+        border-radius: 0.25rem;
+    }
+}

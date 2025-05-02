@@ -1,0 +1,33 @@
+.homepage-header {
+    top: 0;
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid red;
+    .user-name {
+        float: left;
+    }
+    span.logout-button {
+        display: block;
+        cursor: pointer;
+        font-size: 0.75rem;
+        text-decoration: underline;
+    }
+    .header-logo,
+    .header-profile {
+        width: 15%;
+        max-width: 15%;
+    }
+    .header-title{
+        width: 100%;
+        font-family: monospace;
+        font-size: x-large;
+        h3 {
+            margin: 0;
+        }
+    }
+}

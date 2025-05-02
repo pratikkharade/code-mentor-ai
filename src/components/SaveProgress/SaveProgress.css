@@ -1,0 +1,15 @@
+.save-progress-wrapper{
+    right: 0;
+    position: absolute;
+    top: 0;
+    padding: 1rem 0;
+    .save-progress {
+        width: 8rem;
+        height: 2rem;
+        border: none;
+        cursor: pointer;
+        padding: 0.25rem;
+        background: #d3d7e7;
+        border-radius: 0.25rem;
+    }
+}

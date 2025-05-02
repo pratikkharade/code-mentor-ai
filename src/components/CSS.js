@@ -1,0 +1,10 @@
+import "./Header/Header.css";
+import "./Concept/Concept.css";
+import "./Question/Question.css";
+import "./Welcome/WelcomePage.css";
+import "./SaveProgress/SaveProgress.css";
+import "./Home/HomePage.css";
+import "./Loading/Loading.css";
+import "./Login/LoginPage.css";
+import "./HintsAvailable/HintsAvailable.css";
+import "./Profile/Profile.css";

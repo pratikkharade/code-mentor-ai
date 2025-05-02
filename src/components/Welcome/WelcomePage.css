@@ -1,0 +1,6 @@
+.welcome-page {
+    height: 100%;
+    display: flex;
+    margin: 0 5rem;
+    flex-direction: column;
+}
