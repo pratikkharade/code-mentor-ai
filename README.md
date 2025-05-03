@@ -1,3 +1,20 @@
+# CodeMentor AI
+
+CodeMentor AI is an interactive platform to help students practice Python coding questions with AI-generated hints. It combines a React frontend, a Flask backend, OpenAI API, and MySQL for user and code management.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project locally.
+
+### 1. 📥 Clone & Install Dependencies
+
+```bash
+git clone https://github.com/your-username/code-mentor-ai.git
+cd code-mentor-ai
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
